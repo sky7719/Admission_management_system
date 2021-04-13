@@ -1,0 +1,21 @@
+C:\Users\Shivam.Kumar\Desktop\Programms\Week 1\Shivam_Day 4\Assignment1\Assignment1\bin\Debug\Assignment1.exe.config
+C:\Users\Shivam.Kumar\Desktop\Programms\Week 1\Shivam_Day 4\Assignment1\Assignment1\bin\Debug\Assignment1.exe
+C:\Users\Shivam.Kumar\Desktop\Programms\Week 1\Shivam_Day 4\Assignment1\Assignment1\bin\Debug\Assignment1.pdb
+C:\Users\Shivam.Kumar\Desktop\Programms\Week 1\Shivam_Day 4\Assignment1\Assignment1\obj\Debug\Assignment1.csprojAssemblyReference.cache
+C:\Users\Shivam.Kumar\Desktop\Programms\Week 1\Shivam_Day 4\Assignment1\Assignment1\obj\Debug\Assignment1.csproj.CoreCompileInputs.cache
+C:\Users\Shivam.Kumar\Desktop\Programms\Week 1\Shivam_Day 4\Assignment1\Assignment1\obj\Debug\Assignment1.exe
+C:\Users\Shivam.Kumar\Desktop\Programms\Week 1\Shivam_Day 4\Assignment1\Assignment1\obj\Debug\Assignment1.pdb
+C:\Users\Shivam.Kumar\Desktop\Assignment1\Assignment1\bin\Debug\Assignment1.exe.config
+C:\Users\Shivam.Kumar\Desktop\Assignment1\Assignment1\bin\Debug\Assignment1.exe
+C:\Users\Shivam.Kumar\Desktop\Assignment1\Assignment1\bin\Debug\Assignment1.pdb
+C:\Users\Shivam.Kumar\Desktop\Assignment1\Assignment1\obj\Debug\Assignment1.csprojAssemblyReference.cache
+C:\Users\Shivam.Kumar\Desktop\Assignment1\Assignment1\obj\Debug\Assignment1.csproj.CoreCompileInputs.cache
+C:\Users\Shivam.Kumar\Desktop\Assignment1\Assignment1\obj\Debug\Assignment1.exe
+C:\Users\Shivam.Kumar\Desktop\Assignment1\Assignment1\obj\Debug\Assignment1.pdb
+C:\Users\Shivam.Kumar\Downloads\Admission_management_system-main\Admission_management_system-main\Assignment1\Assignment1\bin\Debug\Assignment1.exe.config
+C:\Users\Shivam.Kumar\Downloads\Admission_management_system-main\Admission_management_system-main\Assignment1\Assignment1\bin\Debug\Assignment1.exe
+C:\Users\Shivam.Kumar\Downloads\Admission_management_system-main\Admission_management_system-main\Assignment1\Assignment1\bin\Debug\Assignment1.pdb
+C:\Users\Shivam.Kumar\Downloads\Admission_management_system-main\Admission_management_system-main\Assignment1\Assignment1\obj\Debug\Assignment1.csprojAssemblyReference.cache
+C:\Users\Shivam.Kumar\Downloads\Admission_management_system-main\Admission_management_system-main\Assignment1\Assignment1\obj\Debug\Assignment1.csproj.CoreCompileInputs.cache
+C:\Users\Shivam.Kumar\Downloads\Admission_management_system-main\Admission_management_system-main\Assignment1\Assignment1\obj\Debug\Assignment1.exe
+C:\Users\Shivam.Kumar\Downloads\Admission_management_system-main\Admission_management_system-main\Assignment1\Assignment1\obj\Debug\Assignment1.pdb
